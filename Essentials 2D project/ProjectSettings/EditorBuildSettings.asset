@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Exercise.unity
+    guid: dba93dfdbfdc0fd498ffa01f9442404e
   m_configObjects: {}
